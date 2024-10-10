@@ -1,0 +1,27 @@
+body{
+    background-color: lightslategray;
+    
+}
+
+h1{
+    color: white;
+    background-color: lightcoral;
+}
+
+label{
+    font-weight: bold;
+    background-color: lightpink;
+}
+
+Form{
+    margin: 40px;
+}
+
+
+button{
+    width: 10%;
+    border-radius: 6px;
+}
+button:hover{
+    background-color: lightgreen;
+}
